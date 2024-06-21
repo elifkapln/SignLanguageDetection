@@ -45,3 +45,4 @@ Z harfi:
 
 ## Bilgilendirme
 Bu projedeki veriler ben ve ekip arkadaşlarım tarafından toplanmış ve eğitilmiştir. Daha iyi bir yapay zeka modeli için geniş ve çeşitli işaret dilini içeren bir veri seti geliştirilebilir. Bu veri seti, çeşitli işaret dili varyasyonlarını ve hareketlerini kapsamalıdır.
+Proje geliştirilirken [bir YouTube videosundan](https://youtu.be/doDUihpj6ro?si=28wMFGQ5kvq6czgK) ilham alınmıştır.
