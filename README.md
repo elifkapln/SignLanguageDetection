@@ -75,7 +75,7 @@ Modelin gerçek zamanlı olarak video akışındaki harfleri ve kelimeleri tanı
 * **Elif Nur ÖZDEMİR** - [elifnurozdemir](https://github.com/elifnurozdemir)
 
 ## License
-Bu proje GPL-3.0 Lisansı altında lisanslanmıştır. Ancak bu pojede yer alan veriler yazar tarafından toplanmıştır ve ticari amaçlarla kullanılmasına izin verilmez. Kullanıcıların kodu ticari uygulamalar için kullanmak üzere kendi verilerini toplamaları gerekir.
+Bu proje GPL-3.0 Lisansı altında lisanslanmıştır. Ancak bu projede yer alan veriler yazar tarafından toplanmıştır ve ticari amaçlarla kullanılmasına izin verilmez. Kullanıcıların kodu ticari uygulamalar için kullanmak üzere kendi verilerini toplamaları gerekir.
 
 ## Bilgilendirme
 Bu projedeki veriler ben ve ekip arkadaşlarım tarafından toplanmış ve eğitilmiştir. Daha iyi bir yapay zeka modeli için geniş ve çeşitli işaret dilini içeren bir veri seti geliştirilebilir. Bu veri seti çeşitli işaret dili varyasyonlarını ve hareketlerini kapsamalıdır.
